@@ -22,3 +22,4 @@ It discards anything that was removed in the new branch and keeps anything that 
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Doing it automatically obviously saves time, but it can be easy to lose track of what is being kept/discarded based on the logic. Doing it manually allows you to take control of that and identify any errors that might pop up.
