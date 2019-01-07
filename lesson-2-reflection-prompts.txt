@@ -11,6 +11,7 @@ I can do this by adding things to the stagging area as I go along, and only comm
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+Branches are good for really any experimental change you want to make as it kind of creates its own, attached project without effect the master branch.
 
 How do the diagrams help you visualize the branch structure?
 
