@@ -14,6 +14,7 @@ organized? How would branches help?
 Branches are good for really any experimental change you want to make as it kind of creates its own, attached project without effect the master branch.
 
 How do the diagrams help you visualize the branch structure?
+It seems specifically helpful when talking about reachability, so that you know exactly what you are working on and what other commits apply to the branch you are currently editing.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
