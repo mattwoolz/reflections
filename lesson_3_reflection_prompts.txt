@@ -7,7 +7,7 @@ When you are trying to collaborate between users, likely.
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    If someone else adds an update that you don't want, you can keep your local version clean.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
